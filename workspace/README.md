@@ -1,6 +1,6 @@
 # Service workspace: Python FastAPI
 
-This workspace builds **<Service>**, an HTTP service on FastAPI and Python 3.13
+This workspace builds **{{ projectName }}**, an HTTP service on FastAPI and Python 3.13
 with a pytest suite (see `repositories/service.md`).
 
 ## How the agent should navigate this workspace

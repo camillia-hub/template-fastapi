@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "key": "service",
+      "label": "HTTP service",
+      "description": "FastAPI HTTP service",
+      "required": true,
+      "overrideContent": false
+    }
+  ]
+}
